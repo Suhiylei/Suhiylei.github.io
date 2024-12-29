@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "北冰洋边吃饺子的人"
+title: "北冰洋"
 author_profile: true
 redirect_from: 
   - /about/
